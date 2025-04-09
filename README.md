@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @zeplin-michael
-- 🌱 I’m currently learning HTML, CSS, Javascript
+
 
 <!---
 zeplin-michael/zeplin-michael is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
